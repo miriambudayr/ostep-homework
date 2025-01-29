@@ -1,3 +1,7 @@
+# Recurse Center Focus
+
+As a part of my time at the Recurse Center, I focused on deep diving into how operating systems work. This repository contains my solutions to exercises from the book "Operating Systems: Three Easy Pieces" (OSTEP) by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. This repository is a work in progress, as I continue to progress through the chapters and refine my understanding on these topics.
+
 # Homeworks
 
 Each chapter has some questions at the end; we call these "homeworks", because you should do the "work" at your "home". Make sense? It's one of the innovations of this book.
